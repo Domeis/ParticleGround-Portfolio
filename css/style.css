@@ -113,15 +113,6 @@ p {
   font-family: 'Roboto', sans-serif;
 }
 
-portfolio a {
-  background-color: #E83951;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  border-radius: 2px;
-}
-
 @media only screen and (max-width: 1000px) {
   h1 {
     font-size: 15px;
